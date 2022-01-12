@@ -1,8 +1,8 @@
 # HW3_Fixed-outline-Floorplan-Design_B-star-tree
 
-B star tree algorithm with simulated annealing.<br> 
+This is a floorplaner with floorplan represented by B-star tree using simulated annealing algorithm.<br> 
 
-A minor difference is that I modified the cost function in order to implement the fix-outline constraint. My cost function includes the W and H penalty when violating FO. And also the aspect ratio of the floorplan is added into the cost function.<br>
+A minor difference is that the cost function is modified in order to implement the fix-outline constraint. The cost function includes the W and H penalty when violating FO. And also the aspect ratio of the floorplan is added into the cost function.<br>
 
 ## How to compile <br>
   In directory ```./src```, enter the following command, <br>
