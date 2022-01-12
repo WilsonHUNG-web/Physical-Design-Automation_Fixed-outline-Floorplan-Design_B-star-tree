@@ -17,7 +17,9 @@ To remove it, please enter the following command, <br>
  ```
 ## How to Run
  In directory ```./src```, enter the following command, <br>
-  ```../bin/[exe] [hardblocks file] [nets file] [pl file] [dead space_ratio]```
+  ```
+  $ ../bin/[exe] [hardblocks file] [nets file] [pl file] [dead space_ratio]
+  ```
   E.g.
   ```
   $ ../bin/hw3 ../testcase/n100.hardblocks ../testcase/n100.nets ../testcase/n100.pl 0.1 
