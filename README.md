@@ -1,6 +1,6 @@
 # HW3_Fixed-outline-Floorplan-Design_B-star-tree
 
-This is a floorplaner with floorplan represented by **B-star tree** structure (http://cc.ee.ntu.edu.tw/~ywchang/Papers/boundary-btree.pdf) using simulated annealing algorithm.<br> 
+This is a floorplaner with floorplan represented by **B-star tree** structure (http://cc.ee.ntu.edu.tw/~ywchang/Papers/boundary-btree.pdf) using **simulated annealing algorithm**.<br> 
 
 A minor difference is that the cost function is modified in order to implement the fix-outline constraint. The cost function includes the W and H penalty when violating FO. And also the aspect ratio of the floorplan is added into the cost function.<br>
 
